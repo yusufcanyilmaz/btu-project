@@ -1,7 +1,10 @@
 # BTU BLM101_Project
 Öğrenci Bilgileri: Yusufcan Yılmaz 25360859310
+
 Proje Konusu: Veri Depolama ve Sayısal Sistemler
+
 YouTube Linki: https://www.youtube.com/watch?v=fRl7dNoooyc
+
 Proje Açıklaması: 
 ### Kodun ne yaptığı
 Bu Python programı, kullanıcıdan alınan onluk tabandaki tam sayıları bilgisayar mimarisine uygun şekilde 16-bitlik ikilik (binary) ve onaltılık (hexadecimal) sistemlere dönüştürerek verinin donanım seviyesindeki temsilini simüle eder.
